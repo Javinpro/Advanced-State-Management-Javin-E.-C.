@@ -26,3 +26,36 @@ Clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/flutter-counter-app.git
+```
+
+### Step 2: Navigate to the Project Directory
+Change into the project directory:
+
+```bash
+cd flutter-counter-app
+```
+
+### Step 3: Install Dependencies
+Run the following command to install the required dependencies:
+
+```bash
+flutter pub get
+```
+
+This will fetch the necessary packages, including Provider for state management and flutter_animations for animations.
+
+
+### Step 4: Run the Application
+Now you are ready to run the app! You can use the following command to launch the app:
+
+```bash
+flutter run
+```
+
+The app should now be running on your emulator or connected device.
+
+
+
+
+
+
