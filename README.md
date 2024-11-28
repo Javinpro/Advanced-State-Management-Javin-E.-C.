@@ -25,14 +25,14 @@ Follow these steps to clone and run the app:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-counter-app.git
+git clone https://github.com/Javinpro/Advanced-State-Management-Javin-E.-C..git
 ```
 
 ### Step 2: Navigate to the Project Directory
 Change into the project directory:
 
 ```bash
-cd flutter-counter-app
+cd global_state.dart
 ```
 
 ### Step 3: Install Dependencies
@@ -53,6 +53,14 @@ flutter run
 ```
 
 The app should now be running on your emulator or connected device.
+
+
+## Additional Notes
+- This app uses Provider for state management, making it easy to manage the app’s state globally.
+- You can customize the app by adding more features, like custom labels, different color schemes, and advanced animations.
+
+## Conclusion 
+This Flutter app provides a comprehensive example of how to manage state using both local and global state management techniques. By following this guide, you can easily clone and run the project, as well as modify the code to suit your own needs.
 
 
 
